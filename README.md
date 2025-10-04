@@ -50,8 +50,6 @@ The Aston Computer Science Society is a student-run group dedicated to building 
 
 🔗 Find us here:
 
-Discord Server
+discord.gg/acss
 
-Instagram
-
-LinkedIn
+https://www.instagram.com/astoncss/
